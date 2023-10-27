@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>c11.jpg</filename>
+	<path>C:\MyProjects\NumberPlate_OCR\data\c11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>536</ymin>
+			<xmax>1121</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+</annotation>
